@@ -1,0 +1,15 @@
+{
+	"name": "d3BarChart",
+	"description": "d3 Bar Chart on Qlik Sense",
+	"type": "visualization",
+	"version": "1.0.0",
+	"icon": "extension",
+	"author": "Vladislav Tatarnikov",
+	"homepage": "",
+	"keywords": "qlik-sense, visualization",
+	"license": "",
+	"repository": "",
+	"dependencies": {
+		"qlik-sense": ">=3.0.x"
+	}
+}
