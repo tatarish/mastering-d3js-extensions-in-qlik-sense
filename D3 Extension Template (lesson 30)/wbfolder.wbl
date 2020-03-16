@@ -1,0 +1,7 @@
+d3Template.qext;
+d3Template.js;
+d3Template.css;
+initialproperties.js;
+properties.js;
+./libraries/d3.v3.min.js;
+./libraries/d3.v4.min.js
